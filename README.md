@@ -15,7 +15,7 @@ While in the same session, the application will keep track of the top score.
 
 
 #### Technical Approach:
-Using Bootstrap for some basic front-end styling, the main focus is using React to render the images to the page.  
+Using Bootstrap for some basic front-end styling, the main focus is using React to render the images to the page and handling click events.  
 
 * Technologies Used:
   - React
@@ -26,25 +26,5 @@ Using Bootstrap for some basic front-end styling, the main focus is using React 
 
 
 
-//////////////////////////////////////////////////////////////////////////
-
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+App screenshot
+![Screenshot](./src/images/clicky-game.png)
